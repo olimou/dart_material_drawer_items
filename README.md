@@ -1,4 +1,4 @@
-# material_list_item
+# material_list
 
 A library for Dart developers. It is awesome.
 
@@ -6,7 +6,7 @@ A library for Dart developers. It is awesome.
 
 A simple usage example:
 
-    import 'package:material_list_item/material_list_item.dart';
+    import 'package:material_list/material_listdart';
 
     main() {
       var awesome = new Awesome();

@@ -4,8 +4,8 @@
 /// Support for doing something awesome.
 ///
 /// More dartdocs go here.
-library material_list_item;
+library material_list;
 
-export 'src/material_list_item_base.dart';
+export 'src/material_list.dart';
 
 // TODO: Export any libraries intended for clients of this package.
