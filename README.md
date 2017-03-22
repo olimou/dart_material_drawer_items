@@ -28,4 +28,4 @@ Example for two lines item with avatar
 Please file feature requests and bugs at the [issue tracker][tracker].
 
 [material-specs]: https://material.io/guidelines/components/lists.html#lists-specs
-[tracker]: http://example.com/issues/replaceme
+[tracker]: https://github.com/olimou/dart_material_list/issues
