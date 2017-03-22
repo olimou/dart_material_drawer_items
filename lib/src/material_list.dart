@@ -8,4 +8,16 @@ import 'package:angular2/angular2.dart';
     templateUrl: "material-list.html"
 )
 class MaterialList {
+  @Input()
+  String background = "#fff";
+
+  @Input()
+  String foreground = "rgba(68,68,68,0.84)";
+
+  @Input()
+  String padding = "16px";
+
+  MaterialList() {
+
+  }
 }
