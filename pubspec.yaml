@@ -1,5 +1,5 @@
-name: "material_list"
-description: "Material list item for Angular2."
+name: "material_drawer_items"
+description: "Material drawer items for Angular2."
 version: "0.0.1"
 homepage: "https://github.com/olimou/dart_material_list"
 author: "Emerson Moura <oilmou@gmail.com>"
