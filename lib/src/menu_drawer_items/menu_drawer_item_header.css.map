@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AACE,kCAAM;EACJ,MAAM,EAAE,KAAK;EACb,MAAM,EAAE,GAAG;EACX,KAAK,EAAE,IAAI;EACX,gBAAgB,EAAE,mBAAmB;AAGvC,8BAAE;EACA,KAAK,EAAE,mBAAmB;EAC1B,YAAY,EAAE,IAAI;EAClB,MAAM,EAAE,YAAY",
+"sources": ["menu_drawer_item_header.scss"],
+"names": [],
+"file": "menu_drawer_item_header.css"
+}

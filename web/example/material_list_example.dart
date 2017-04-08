@@ -3,11 +3,12 @@
 
 import 'package:angular2/angular2.dart';
 import 'package:material_list/material_list.dart';
+import 'package:material_list/src/menu_drawer_items/menu_drawer_item_component.dart';
 
 @Component(
     selector: "material-list-example",
     templateUrl: "material-list-example.html",
-    directives: const[MaterialList]
+    directives: const[MaterialList, MenuDrawerItem]
 )
 class MaterialListExample {
 }

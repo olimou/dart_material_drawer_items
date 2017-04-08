@@ -1,0 +1,11 @@
+.material-drawer-item-header .line {
+  margin: 8px 0;
+  height: 1px;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.12); }
+.material-drawer-item-header p {
+  color: rgba(0, 0, 0, 0.54);
+  padding-left: 16px;
+  margin: 16px 0 8px 0; }
+
+/*# sourceMappingURL=menu_drawer_item_header.css.map */

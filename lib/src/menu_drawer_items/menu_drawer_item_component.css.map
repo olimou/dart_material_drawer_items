@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,iBAAkB;EAChB,QAAQ,EAAE,QAAQ;EAClB,OAAO,EAAE,IAAI;EACb,MAAM,EAAE,OAAO;EACf,KAAK,EAAE,mBAAmB;EAE1B,uBAAQ;IACN,gBAAgB,EAAE,OAAO;EAIzB,kCAAiB;IACf,YAAY,EAAE,IAAI;IAClB,KAAK,EAAE,mBAAmB",
+"sources": ["menu_drawer_item_component.scss"],
+"names": [],
+"file": "menu_drawer_item_component.css"
+}
