@@ -4,8 +4,7 @@
 /// Support for doing something awesome.
 ///
 /// More dartdocs go here.
-library material_list;
+library material_drawer_items;
 
-export 'src/material_list.dart';
-
-// TODO: Export any libraries intended for clients of this package.
+export 'src/menu_drawer_items/menu_drawer_item_component.dart';
+export 'src/menu_drawer_items/menu_drawer_item_header.dart';

@@ -2,13 +2,12 @@
 // is governed by a BSD-style license that can be found in the LICENSE file.
 
 import 'package:angular2/angular2.dart';
-import 'package:material_list/material_list.dart';
-import 'package:material_list/src/menu_drawer_items/menu_drawer_item_component.dart';
+import 'package:material_drawer_items/material_drawer_items.dart';
 
 @Component(
     selector: "material-list-example",
     templateUrl: "material-list-example.html",
-    directives: const[MaterialList, MenuDrawerItem]
+    directives: const[MenuDrawerItem, MenuDrawerItem]
 )
 class MaterialListExample {
 }
