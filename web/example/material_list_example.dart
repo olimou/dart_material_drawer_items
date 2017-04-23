@@ -2,7 +2,7 @@
 // is governed by a BSD-style license that can be found in the LICENSE file.
 
 import 'package:angular2/angular2.dart';
-import 'package:material_drawer_items/material_drawer_items.dart';
+import 'package:dart_material_drawer_items/material_drawer_items.dart';
 
 @Component(
     selector: "material-list-example",
