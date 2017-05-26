@@ -12,7 +12,7 @@
         <entry key="angular2">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/angular2-3.0.0-beta+2/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/angular2-3.1.0/lib" />
             </list>
           </value>
         </entry>
@@ -54,7 +54,14 @@
         <entry key="build">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/build-0.8.0/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/build-0.9.3/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="build_barback">
+          <value>
+            <list>
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/build_barback-0.2.2/lib" />
             </list>
           </value>
         </entry>
@@ -69,6 +76,20 @@
           <value>
             <list>
               <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/cli_util-0.0.1+2/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="code_builder">
+          <value>
+            <list>
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/code_builder-1.0.1/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="code_transformers">
+          <value>
+            <list>
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/code_transformers-0.5.1+3/lib" />
             </list>
           </value>
         </entry>
@@ -117,7 +138,7 @@
         <entry key="func">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/func-1.0.0/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/func-0.1.1/lib" />
             </list>
           </value>
         </entry>
@@ -303,6 +324,13 @@
             </list>
           </value>
         </entry>
+        <entry key="source_gen">
+          <value>
+            <list>
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/source_gen-0.5.7/lib" />
+            </list>
+          </value>
+        </entry>
         <entry key="source_map_stack_trace">
           <value>
             <list>
@@ -419,22 +447,25 @@
     </properties>
     <CLASSES>
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/analyzer-0.29.10/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/angular2-3.0.0-beta+2/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/angular2-3.1.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/angular_components-0.5.0-beta+1/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/args-0.13.7/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/async-1.13.2/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/barback-0.15.2+10/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/boolean_selector-1.0.2/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/build-0.8.0/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/build-0.9.3/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/build_barback-0.2.2/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/charcode-1.1.1/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/cli_util-0.0.1+2/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/code_builder-1.0.1/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/code_transformers-0.5.1+3/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/collection-1.14.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/convert-2.0.1/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/crypto-2.0.1/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/csslib-0.13.5/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/dart_style-1.0.3/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/fixnum-0.10.5/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/func-1.0.0/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/func-0.1.1/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/glob-1.1.3/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/html-0.13.1/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/http-0.11.3+13/lib" />
@@ -461,6 +492,7 @@
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/shelf_packages_handler-1.0.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/shelf_static-0.2.4/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/shelf_web_socket-0.2.1/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/source_gen-0.5.7/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/source_map_stack_trace-1.1.4/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/source_maps-0.10.4/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/source_span-1.3.1/lib" />
